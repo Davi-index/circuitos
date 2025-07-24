@@ -1,0 +1,69 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11e vcom 2024.3 2024.09, Sep 10 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/Davi/Documents/vhdl
+T_opt
+!s110 1751542502
+VoAJL1DYJk:iab_Y][MYlQ1
+04 7 13 work motores comportamento 1
+=1-f020ff42148b-68666ae5-20b-2f54
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM10U1 
+!s135 nogc
+o-quiet -auto_acc_if_foreign -work work
+tCvgOpt 0
+n@_opt
+OL;O;2024.3;79
+R1
+Emotores
+Z2 w1751542384
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 2
+R1
+Z5 8C:/Users/Davi/Documents/vhdl/motores.vhd
+Z6 FC:/Users/Davi/Documents/vhdl/motores.vhd
+l0
+L4 1
+Vl5o^m3<CP;eW:I1lWGMED1
+!s100 7Ua:OgEHNi2RMBlJOYJ2h0
+Z7 OL;C;2024.3;79
+32
+Z8 !s110 1751542767
+!i10b 1
+Z9 !s108 1751542767.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Davi/Documents/vhdl/motores.vhd|
+Z11 !s107 C:/Users/Davi/Documents/vhdl/motores.vhd|
+!i113 0
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Acomportamento
+R3
+R4
+Z14 DEx4 work 7 motores 0 22 l5o^m3<CP;eW:I1lWGMED1
+!i122 2
+l12
+Z15 L11 7
+Z16 V_mH360=cWZFaMP[Q81f>O1
+Z17 !s100 KeYBRD_GJ66@bde7?5cn33
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
