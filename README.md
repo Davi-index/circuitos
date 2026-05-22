@@ -4,7 +4,7 @@
 
 
 
-Repositório acadêmico para a descrição e desenvolvimento de códigos para circuitos digitais e rebótico, utilizando VHDL e C++ (ainda em desenvolvimento)
+Repositório acadêmico para a descrição e desenvolvimento de códigos para circuitos digitais e rebótico, utilizando VHDL e C++
 
-
-
+Site recomendado para prática
+https://www.tinkercad.com
