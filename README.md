@@ -1,10 +1,10 @@
-﻿# CIRCUITOS DIGITAIS
+# CIRCUITOS DIGITAIS
 ![VHDL](https://img.shields.io/badge/VHDL-239120?style=for-the-badge&logo=vhdl&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=C&logoColor=61DAFB)&nbsp;
 
+Repositório acadêmico dedicado ao estudo e desenvolvimento de circuitos digitais e robótica, com foco em exemplos práticos em VHDL e C++.
 
+## Objetivo
 
-Repositório acadêmico para a descrição e desenvolvimento de códigos para circuitos digitais e rebótico, utilizando VHDL e C++
+Este repositório foi criado para servir como material de apoio para estudantes de engenharia elétrica, computação e áreas afins. Ele reúne descrições, códigos de exemplo e instruções básicas para aprender e aplicar conceitos de circuitos digitais em projetos acadêmicos.
 
-Site recomendado para prática
-https://www.tinkercad.com
