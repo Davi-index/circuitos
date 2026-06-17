@@ -1,6 +1,4 @@
 # CIRCUITOS DIGITAIS
-![VHDL](https://img.shields.io/badge/VHDL-239120?style=for-the-badge&logo=vhdl&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=C&logoColor=61DAFB)&nbsp;
 
 Repositório acadêmico dedicado ao estudo e desenvolvimento de circuitos digitais e robótica, com foco em exemplos práticos em VHDL e C++.
 
@@ -15,3 +13,10 @@ Este repositório foi criado para servir como material de apoio para estudantes 
 - `bsc.vhd`, `gerador.vhd`, `part.vhd`, `verficador.vhd` - módulos VHDL de apoio.
 - `requisito1.vhd` a `requisito4.vhd` - requisitos de sistema combinacional.
 - `sistema_combinacional.vhd` - exemplo de sistema composto.
+
+## TECNOLOGIAS E FERRAMENTAS
+![VHDL](https://img.shields.io/badge/VHDL-239120?style=for-the-badge&logo=vhdl&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=C&logoColor=61DAFB)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![VScode](https://img.shields.io/badge/VSCODE-4285F4?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
+
