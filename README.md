@@ -1,7 +1,8 @@
 # CIRCUITOS DIGITAIS
 
 Repositório acadêmico dedicado ao estudo e desenvolvimento de circuitos digitais e robótica, com foco em exemplos práticos em VHDL e C++.
-As simulações podem ser realizadas no "Tinkercad"
+As simulações podem ser realizadas no "Tinkercad" que é um site para simulação de projetos em arduíno e de circuitos
+[**Tinkercad**](https://www.tinkercad.com/dashboard)
 
 ## Objetivo
 
