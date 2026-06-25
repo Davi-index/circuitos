@@ -8,7 +8,7 @@ As simulações podem ser realizadas no "Tinkercad" que é um site para simulaç
 
 Este repositório foi criado para servir como material de apoio para estudantes de engenharia elétrica, computação e áreas afins. Ele reúne descrições, códigos de exemplo e instruções básicas para aprender e aplicar conceitos de circuitos digitais em projetos acadêmicos.
 
-## Estrutura
+## Estrutura do Repositório
 
 - `pratica (1)` a `pratica (8)` - pastas com arquivos e projetos de cada prática.
 - `pratica5.vhd` - exemplo de projeto em VHDL.
